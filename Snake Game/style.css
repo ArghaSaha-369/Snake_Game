@@ -29,6 +29,7 @@ body {
     background-color: rgb(156, 48, 48);
     border: black solid 2px ;
     border-radius: 7px;
+    transform: scale(1.2);
 }
 
 .snakebody {
